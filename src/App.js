@@ -10,6 +10,9 @@ export default function App() {
           alt="Garlic logo"
           className="App-logo img-fluid"
         />
+        <a href="#" className="btn btn-primary shadow">
+          Test Bootstrap
+        </a>
       </header>
     </div>
   );
