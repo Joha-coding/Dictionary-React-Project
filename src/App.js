@@ -1,5 +1,5 @@
 import "./App.css";
-import Garlic_Branding from "./Garlic_Branding.png";
+import DictionaryLogo from "./Dictionary-logo.png";
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -8,8 +8,8 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img
-            src={Garlic_Branding}
-            alt="Garlic logo"
+            src={DictionaryLogo}
+            alt="Dictionary Logo"
             className="App-logo img-fluid"
           />
         </header>
