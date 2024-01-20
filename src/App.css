@@ -7,8 +7,13 @@ a {
   font-weight: bold;
 }
 
+.App {
+  margin: 0 auto;
+  max-width: 100vmh;
+}
+
 .App-header {
-  margin: 30px;
+  margin: 0px;
 }
 
 .App-logo {
