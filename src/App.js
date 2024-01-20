@@ -15,7 +15,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="garlic" />
         </main>
 
         <small>

@@ -1,0 +1,10 @@
+.Meaning h3 {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: rgba(34, 34, 34, 0.5);
+}
+
+.Meaning .definition {
+  font-style: italic;
+}

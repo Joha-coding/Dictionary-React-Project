@@ -1,0 +1,28 @@
+.Phonetic {
+  margin: 20px 0;
+  font-size: 13px;
+}
+
+.Phonetic a {
+  background: linear-gradient(
+    142.99deg,
+    rgba(217, 217, 217, 0.63) 15.53%,
+    rgba(243, 243, 243, 0.63) 88.19%
+  );
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px -1px rgba(0, 0, 0, 0.18);
+  font-size: 12px;
+  margin-right: 10px;
+  padding: 10px;
+  text-decoration: none;
+  transition: all 150ms ease-in-out;
+}
+
+.Phonetic a:hover {
+  background: linear-gradient(
+    142.99deg,
+    rgba(217, 217, 217, 0.31) 15.53%,
+    rgba(243, 243, 243, 0.707) 88.19%
+  );
+  zoom: 105%;
+}
